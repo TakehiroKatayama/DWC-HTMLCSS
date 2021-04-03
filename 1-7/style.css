@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual{
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  height: 400px;
+  width: 100%;
+}
+
+.heading{
+  padding: 20px 0px 0px 20px;
+}
+main{
+  width: 840px;
+  margin: 50px auto;
+}
+
+.school{
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.school1{
+  border-bottom: 1px solid #d1d1d1;
+  padding: 30px 0;
+}
